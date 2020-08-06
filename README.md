@@ -12,3 +12,11 @@ express- Express is a minimal and flexible Node.js web application framework tha
 multer- Multer is a node.js middleware for handling multipart/form-data , which is primarily used for uploading files. https://www.npmjs.com/package/multer
 
 tesseract- Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine. This library supports more than 100 languages. https://tesseract.projectnaptha.com/
+
+
+
+
+EXAMPLE-
+uploads/ACC_WP1.jpg Input
+
+tesseract.js-ocr-result.pdf Final Output
